@@ -15,12 +15,13 @@ Alguns livros serão utilizados de apoio para preparar o material. Irei listá-l
  - [Variáveis: tipo string](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/notebook/03_Variaveis_string.ipynb)
  - [Variáveis: entrada e saída](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/notebook/03_Variaveis_entrada_saida.ipynb)
 4. Debugando (rastreando) o programa
-4. Condições 
-5. Repetições 
-6. Estrutura de Dados primitivas
-7. Funções
-8. Módulos
-9. Arquivos
+5. Condições 
+6. Repetições 
+7. Estrutura de Dados primitivas
+8. Funções
+9. Módulos
+10. Arquivos
+11. [Exercícios](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/notebook/100_exercicios.ipynb)
 
 ## Ferramentas
 
