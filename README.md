@@ -16,7 +16,7 @@ Alguns livros serão utilizados de apoio para preparar o material. Irei listá-l
  - [Variáveis: entrada e saída](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/programming_introduction/03_Variaveis_entrada_saida.ipynb)
 4. [Debugando (rastreando) o programa](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/programming_introduction/04_debugando.ipynb)
 5. [Condições](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/programming_introduction/05_Condicoes.ipynb) 
-6. [Repetições](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/programming_introduction/06_Repeticao.ipynb)
+6. [Repetições `(em construção)`](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/programming_introduction/06_Repeticao.ipynb)
 7. Estrutura de Dados primitivas
 8. Funções
 9. Módulos
