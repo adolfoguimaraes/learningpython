@@ -28,11 +28,11 @@ Alguns livros serão utilizados de apoio para preparar o material. Irei listá-l
 
 ## Ferramentas
 
-Para executado os códigos deste material é necessário ter a linguagem Python instalada no computador. Preferencialmente a versão 3.x já que todo o curso foi preparado utilizando essa versão. O uso de uma IDE específica para executar os códigos é opcional. Uma IDE recomendada é a PyCharm. 
+Para executar os códigos deste material é necessário ter a linguagem Python instalada no computador. Preferencialmente a versão 3.x já que todo o curso foi preparado utilizando essa versão. O uso de uma IDE específica para executar os códigos é opcional. Uma IDE recomendada é a PyCharm. 
 
 ## Material Extra
 
-Na pasta `howto_instagram` coloco todos os códigos referentes ao material de python publicados no instagram [@profadolfoguimaraes](http://www.instagram.com/profadolfoguimaraes) na série "How To". O conteúdo nem sempre abordado nessa série é introdutório, mas pode ser útil ao longo do processo de aprendizagem.
+Na pasta `howto_instagram` coloco todos os códigos referentes ao material de python publicados no instagram [@profadolfoguimaraes](http://www.instagram.com/profadolfoguimaraes) na série "How To". O conteúdo nem sempre abordado nessa série é introdutório, mas pode ser útil a medida que a pessoa for avançando na linguagem python.
 
 ## Dúvidas? 
 
