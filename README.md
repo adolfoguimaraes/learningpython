@@ -22,6 +22,8 @@ Alguns livros serão utilizados de apoio para preparar o material. Irei listá-l
 9. Módulos
 10. Arquivos
 11. [Exercícios](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/programming_introduction/100_exercicios.ipynb)
+12. Provas
+ - [Resolução da prova 1](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/programming_introduction/200_Prova1.ipynb)
 
 ## Ferramentas
 
