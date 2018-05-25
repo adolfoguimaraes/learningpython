@@ -17,7 +17,7 @@ Alguns livros serão utilizados de apoio para preparar o material. Irei listá-l
 4. [Debugando (rastreando) o programa](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/programming_introduction/04_Debugando.ipynb)
 5. [Condições](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/programming_introduction/05_Condicoes.ipynb) 
 6. [Repetições](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/programming_introduction/06_Repeticao.ipynb)
-7. Estrutura de Dados primitivas
+7. [Estrutura de Dados primitivas](https://nbviewer.jupyter.org/github/adolfoguimaraes/learningpython/blob/master/programming_introduction/07_Listas.ipynb) `(em construção)`
 8. Funções
 9. Módulos
 10. Arquivos
